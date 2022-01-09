@@ -17,10 +17,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project6", "Project6\Projec
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project7", "Project7\Project7.vcxproj", "{EDD57B99-98C0-43F9-BBEB-16823E1A6F6A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Practice01", "Practice01\Practice01.vcxproj", "{2EB951B5-2455-41B5-B60B-10F9824EE3CE}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Practice02", "Practice02\Practice02.vcxproj", "{76AA0E1F-665B-4C87-9F24-FF23594D8E72}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
